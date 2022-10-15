@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #Developed Using [Angular + Backend Firebase]
 
-# Project Link `https://oshop-71ff1.firebaseapp.com/#/`
+# Project Link 
+Link => `https://oshop-71ff1.firebaseapp.com/#/`
 
 ## Development server
 
@@ -33,7 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Screenshots
 
  <p>
-  <img src="./screenShots/A.png" width="100%"   /> 
+  <img src="./screenShots/A.png" width="100%" />
   <img src="./screenShots/B.png" width="100%" /> 
   <img src="./screenShots/C.png" width="100%" /> 
   <img src="./screenShots/D.png" width="100%" /> 
@@ -41,4 +42,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   <img src="./screenShots/F.png" width="100%" />
   <img src="./screenShots/G.png" width="100%" />
 </p>
-# Shop
